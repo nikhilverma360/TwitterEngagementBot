@@ -36,7 +36,7 @@ Additionally, set up the config.json file.
 
 This file is the heart of the bot. You must place your twitter auth info in the auth object. Everything has been labeled that what to set it up. 
 
-Note: Make sure to clear all of the other fields if you do not want to follow based on keyword, whitelist, DM, etc! If you do, simply place your words in the corresponding list seperated by quotations and commas like what I have in the file right now.
+Note: Make sure to clear all of the other fields if you do not want to follow based on keyword, whitelist, DM, etc! If you do, simply place your words in the corresponding list separated by quotations and commas like what I have in the file right now.
 
 ## Author
 
